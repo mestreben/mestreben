@@ -1,15 +1,22 @@
 
- ## 👋 Hi, I’m @mestreben, but you can call me Rafa
+ ## Hello there, I’m Rafa
 ![](https://visitor-badge.laobi.icu/badge?page_id=mestreben.mestreben)
+<a target="_blank" href="https://www.linkedin.com/in/rafael-alves-de-jesus/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:rafaelalvesraj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+
+A Brazilian graduated in Engineering and passionate about Data 💻
+
+
+- 🏢: Financial Data Analyst at [LSEG](https://www.lseg.com/en).
+- :dart: Learning ***AWS*** 
+- :world_map: I speak fluently English, French, Spanish, and Portuguese
+
+## 🧰 Skills 
+
+***Python | Data Analytics | Research | Quantitative Analysis | Data Science | Power BI***
 
 
 
 
-- :house: I'm currently living in Sao Paulo, Brazil.
-- :computer: I'm currently working as a Financial Data Analyst at [LSEG](https://www.lseg.com/en).
-- :dart: I'm currently working on my Central Bank project.
-- :video_game: Life is happier if you don't play FIFA.
-- :world_map: I speak English, French, Spanish, and Portuguese
-- 
 
-I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
