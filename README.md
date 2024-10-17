@@ -10,6 +10,8 @@ A Brazilian graduated in Engineering and passionate about Data 💻
 - 🏢 Financial Data Analyst at [LSEG](https://www.lseg.com/en).
 - :dart: Learning ***AWS*** 
 - :world_map: I speak fluently English, French, Spanish, and Portuguese
+  
+  All my projects were internal and company private, that is why I haven't shared too much here yet, but I'm working on it 🤠
 
 ## 🧰 Skills 
 
